@@ -9,7 +9,7 @@
 
  I greatly appreciate contributions in the following areas:
  - Grammar fixes
- -Proofreading or editing
- -Refining the HTML or CSS markup either for aesthetic or efficiency purposes
+ - Proofreading or editing
+ - Refining the HTML or CSS markup either for aesthetic or efficiency purposes
  
 Source Code License: GPL 3.0
