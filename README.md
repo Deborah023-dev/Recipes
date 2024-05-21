@@ -12,4 +12,4 @@
  -Proofreading or editing
  -Refining the HTML or CSS markup either for aesthetic or efficiency purposes
  
-Source Code License: GNU GLPV3
+Source Code License: GPL 3.0
